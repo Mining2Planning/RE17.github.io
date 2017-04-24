@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mining to planning tutorial page!
 
 You can use the [editor on GitHub](https://github.com/Mining2Planning/RE17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
